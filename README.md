@@ -1,4 +1,4 @@
-# quadritech-newholland
+# Maps
 
 ## Project setup
 ```
